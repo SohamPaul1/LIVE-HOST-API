@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
 });
 
 //middleware
-
+app.use(express.json());
 app.use("/api/data", data_routes);
 
 const start = async () => {

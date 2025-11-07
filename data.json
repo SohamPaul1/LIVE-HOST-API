@@ -1,0 +1,62 @@
+[
+  {
+    "user_id": 1001,
+    "name": "Aarav Sharma",
+    "plan": "Premium",
+    "last_updated": "2025-10-01"
+  },
+  {
+    "user_id": 1002,
+    "name": "Rija Ghosh",
+    "plan": "Basic",
+    "last_updated": "2025-09-27"
+  },
+  {
+    "user_id": 1003,
+    "name": "Riyan Paul",
+    "plan": "Gold",
+    "last_updated": "2025-10-15"
+  },
+  {
+    "user_id": 1004,
+    "name": "Priya Das",
+    "plan": "Standard",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "user_id": 1005,
+    "name": "Rohan Sen",
+    "plan": "Premium",
+    "last_updated": "2025-09-18"
+  },
+  {
+    "user_id": 1006,
+    "name": "Ananya Gupta",
+    "plan": "Silver",
+    "last_updated": "2025-10-22"
+  },
+  {
+    "user_id": 1007,
+    "name": "Kunal Roy",
+    "plan": "Basic",
+    "last_updated": "2025-10-05"
+  },
+  {
+    "user_id": 1008,
+    "name": "Neha Banerjee",
+    "plan": "Gold",
+    "last_updated": "2025-10-10"
+  },
+  {
+    "user_id": 1009,
+    "name": "Arijit Dutta",
+    "plan": "Standard",
+    "last_updated": "2025-09-30"
+  },
+  {
+    "user_id": 1010,
+    "name": "Meera Chatterjee",
+    "plan": "Premium",
+    "last_updated": "2025-10-25"
+  }
+]

@@ -17,6 +17,7 @@ router.route("/test").get(getAllDataTest);
 
 router.route("/:userId")
     .patch(updateUserData)
+    .post(updateUserData)
     .delete(deleteUserData);
 
 module.exports = router;

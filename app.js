@@ -13,12 +13,12 @@ app.get("/", (req, res) => {
 
 //middleware
 app.use(express.json());
-app.use("/api/data", data_routes);
+app.use("/api", data_routes);
 
 const start = async () => {
     try {
         await connectDB(process.env.MONGODB_URL);
-        app.listen(PORT, () => {
+        app.listen(PORT, '0.0.0.0', () => {
             console.log(`Connected to ${PORT}`);
         })
     }
